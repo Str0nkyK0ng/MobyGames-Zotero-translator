@@ -1,4 +1,4 @@
-# Zotero Translator for Moby Games games
+# Zotero Translator for Moby Games
 
 This repo is forked from https://github.com/cmiltiadis/Steam-Zotero-translator
 
